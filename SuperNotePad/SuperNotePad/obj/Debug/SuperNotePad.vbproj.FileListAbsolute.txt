@@ -1,0 +1,12 @@
+C:\Users\Sagun\AppData\Local\Temporary Projects\SuperNotePad\bin\Debug\SuperNotePad.exe.config
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\SuperNotePad\SuperNotePad\bin\Debug\SuperNotePad.exe.config
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\SuperNotePad\SuperNotePad\bin\Debug\SuperNotePad.exe
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\SuperNotePad\SuperNotePad\bin\Debug\SuperNotePad.pdb
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\SuperNotePad\SuperNotePad\bin\Debug\SuperNotePad.xml
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\SuperNotePad\SuperNotePad\obj\Debug\SuperNotePad.Form1.resources
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\SuperNotePad\SuperNotePad\obj\Debug\SuperNotePad.Resources.resources
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\SuperNotePad\SuperNotePad\obj\Debug\SuperNotePad.vbproj.GenerateResource.Cache
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\SuperNotePad\SuperNotePad\obj\Debug\SuperNotePad.exe
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\SuperNotePad\SuperNotePad\obj\Debug\SuperNotePad.xml
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\SuperNotePad\SuperNotePad\obj\Debug\SuperNotePad.pdb
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\SuperNotePad\SuperNotePad\obj\Debug\SuperNotePad.SuperNotepad.resources

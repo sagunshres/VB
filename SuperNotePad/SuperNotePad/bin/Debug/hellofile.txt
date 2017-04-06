@@ -1,0 +1,8 @@
+hi   kjk hi this is 
+a test
+for streamwriter
+using menu strip with fileopoen dialogue box.
+
+
+
+

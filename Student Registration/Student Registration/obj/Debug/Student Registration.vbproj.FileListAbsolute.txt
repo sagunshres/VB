@@ -1,0 +1,20 @@
+C:\Users\Sagun\AppData\Local\Temporary Projects\Student Registration\bin\Debug\Student Registration.exe.config
+C:\Users\Sagun\AppData\Local\Temporary Projects\Student Registration\bin\Debug\Student Registration.exe
+C:\Users\Sagun\AppData\Local\Temporary Projects\Student Registration\bin\Debug\Student Registration.pdb
+C:\Users\Sagun\AppData\Local\Temporary Projects\Student Registration\bin\Debug\Student Registration.xml
+C:\Users\Sagun\AppData\Local\Temporary Projects\Student Registration\obj\Debug\Student_Registration.StudentRegistration.resources
+C:\Users\Sagun\AppData\Local\Temporary Projects\Student Registration\obj\Debug\Student_Registration.Resources.resources
+C:\Users\Sagun\AppData\Local\Temporary Projects\Student Registration\obj\Debug\Student Registration.vbproj.GenerateResource.Cache
+C:\Users\Sagun\AppData\Local\Temporary Projects\Student Registration\obj\Debug\Student Registration.exe
+C:\Users\Sagun\AppData\Local\Temporary Projects\Student Registration\obj\Debug\Student Registration.xml
+C:\Users\Sagun\AppData\Local\Temporary Projects\Student Registration\obj\Debug\Student Registration.pdb
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\Student Registration\Student Registration\bin\Debug\Student Registration.exe.config
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\Student Registration\Student Registration\obj\Debug\Student Registration.exe
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\Student Registration\Student Registration\obj\Debug\Student Registration.xml
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\Student Registration\Student Registration\obj\Debug\Student Registration.pdb
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\Student Registration\Student Registration\bin\Debug\Student Registration.exe
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\Student Registration\Student Registration\bin\Debug\Student Registration.pdb
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\Student Registration\Student Registration\bin\Debug\Student Registration.xml
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\Student Registration\Student Registration\obj\Debug\Student_Registration.StudentRegistration.resources
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\Student Registration\Student Registration\obj\Debug\Student_Registration.Resources.resources
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\Student Registration\Student Registration\obj\Debug\Student Registration.vbproj.GenerateResource.Cache

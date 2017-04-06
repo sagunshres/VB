@@ -1,0 +1,20 @@
+C:\Users\Sagun\AppData\Local\Temporary Projects\Pig Latin\bin\Debug\Pig Latin.exe.config
+C:\Users\Sagun\AppData\Local\Temporary Projects\Pig Latin\bin\Debug\Pig Latin.exe
+C:\Users\Sagun\AppData\Local\Temporary Projects\Pig Latin\bin\Debug\Pig Latin.pdb
+C:\Users\Sagun\AppData\Local\Temporary Projects\Pig Latin\bin\Debug\Pig Latin.xml
+C:\Users\Sagun\AppData\Local\Temporary Projects\Pig Latin\obj\Debug\Pig_Latin.Piglatin.resources
+C:\Users\Sagun\AppData\Local\Temporary Projects\Pig Latin\obj\Debug\Pig_Latin.Resources.resources
+C:\Users\Sagun\AppData\Local\Temporary Projects\Pig Latin\obj\Debug\Pig Latin.vbproj.GenerateResource.Cache
+C:\Users\Sagun\AppData\Local\Temporary Projects\Pig Latin\obj\Debug\Pig Latin.exe
+C:\Users\Sagun\AppData\Local\Temporary Projects\Pig Latin\obj\Debug\Pig Latin.xml
+C:\Users\Sagun\AppData\Local\Temporary Projects\Pig Latin\obj\Debug\Pig Latin.pdb
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\Pig Latin\Pig Latin\bin\Debug\Pig Latin.exe.config
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\Pig Latin\Pig Latin\obj\Debug\Pig Latin.exe
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\Pig Latin\Pig Latin\obj\Debug\Pig Latin.xml
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\Pig Latin\Pig Latin\obj\Debug\Pig Latin.pdb
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\Pig Latin\Pig Latin\bin\Debug\Pig Latin.exe
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\Pig Latin\Pig Latin\bin\Debug\Pig Latin.pdb
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\Pig Latin\Pig Latin\bin\Debug\Pig Latin.xml
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\Pig Latin\Pig Latin\obj\Debug\Pig_Latin.Piglatin.resources
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\Pig Latin\Pig Latin\obj\Debug\Pig_Latin.Resources.resources
+C:\Users\Sagun\Documents\Visual Studio 2012\Projects\Pig Latin\Pig Latin\obj\Debug\Pig Latin.vbproj.GenerateResource.Cache
